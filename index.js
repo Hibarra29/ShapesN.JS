@@ -45,14 +45,12 @@ function promptUser() {
     .prompt([
       {
         type: "input",
-        message:
-          "Enter text to display, Up to 3 characters",
+        message:"Enter text to display, Up to 3 characters",
         name: "text",
       },
       {
         type: "input",
-        message:
-          "Choose text color or hex code",
+        message:"Choose text color or hex code",
         name: "textColor",
       },
       {
@@ -63,8 +61,7 @@ function promptUser() {
       },
       {
         type: "input",
-        message:
-          "Enter a shape color or hex code",
+        message:"Enter a shape color or hex code",
         name: "shapeBackgroundColor",
       },
     ])
@@ -78,6 +75,5 @@ function promptUser() {
       }
     });
 }
-
 //starting function 
 promptUser();
