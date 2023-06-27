@@ -1,6 +1,28 @@
 {
   "dependencies": {
-    "inquirer": "^9.2.7",
+    "inquirer": "^8.2.4",
     "jest": "^25.0.0"
-  }
+  },
+  "name": "shapesn.js",
+  "description": "command-line application that takes in user input to generate a logo and save it as an SVG fileLinks to an external site.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hibarra29/ShapesN.JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hibarra29/ShapesN.JS/issues"
+  },
+  "homepage": "https://github.com/Hibarra29/ShapesN.JS#readme"
 }
