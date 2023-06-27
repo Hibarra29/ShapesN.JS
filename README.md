@@ -18,6 +18,7 @@ https://stackoverflow.com/questions/18467982/are-svg-parameters-such-as-xmlns-an
 https://stackoverflow.com/questions/8639383/how-do-i-center-an-svg-in-a-div
 https://stackoverflow.com/questions/22252472/how-can-i-change-the-color-of-an-svg-element/53336754#53336754
 https://stackoverflow.com/questions/5546346/how-to-place-and-center-text-in-an-svg-rectangle
+https://stackoverflow.com/questions/39039017/please-can-anyone-explain-the-svg-polygon-points
 
 ## License
 
